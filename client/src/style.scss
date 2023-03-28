@@ -108,5 +108,20 @@ $lighGreen: #b9e7e7;
         }
       }
     }
+
+    // footer
+
+    footer {
+      margin-top: 100px;
+      padding: 20px;
+      background-color: $lighGreen;
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      align-items: center;
+      img {
+        height: 50px;
+      }
+    }
   }
 }
